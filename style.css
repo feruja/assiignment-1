@@ -1,5 +1,6 @@
 body{
     background-color:rgb(248, 245, 248) ;
+    margin: 0;
 }
 .images-1{
     width: 50%;
@@ -74,4 +75,41 @@ h1{
     padding: 20px;
     margin-right: 3%;
     border-radius: 25px;
+}
+.third-section{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+}
+.develop-iimg{
+    width: 100%;
+}
+.develop-images{
+    width: 80%;
+}
+.develop-details{
+    width: 130%;
+    padding-right: 5%;
+}
+.community-iimg{
+    width: 110%;
+    margin-left: 10%
+}
+.footer-span{
+    color:rgb(228, 48, 48) ;
+}
+.footer-det{
+    margin-top: 5%;
+    background-color: black;
+    color: white;
+    height: 150px;
+}
+.footer-font{
+    font-size: 12px;
+    color: rgb(136, 141, 146);
+}
+.footer-heading{
+    padding: 7px;
+    text-align: center;
 }
